@@ -48,24 +48,16 @@
 
 ## 👤 About Me
 
-<p align="center">
-
 Computer Science graduate focused on building AI-driven analytics and decision intelligence systems that combine machine learning, forecasting, dashboards, and business intelligence to solve real-world business problems.
 
-</p>
-
 <br/>
-
-<div align="center">
 
 <table width="100%">
 <tr>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33%">
 
-<h3>💎 Core Expertise</h3>
-
-<div align="left">
+### 💎 Core Expertise
 
 - 📈 Predictive Analytics  
 - 📊 KPI Monitoring  
@@ -74,15 +66,11 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 - 📉 Anomaly Detection  
 - 💹 Revenue Intelligence  
 
-</div>
-
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33%">
 
-<h3>🚀 Currently Exploring</h3>
-
-<div align="left">
+### 🚀 Currently Exploring
 
 - Advanced ML  
 - Forecasting Pipelines  
@@ -91,15 +79,11 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 - Streamlit Applications  
 - Analytics Automation  
 
-</div>
-
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33%">
 
-<h3>🎯 Focus Areas</h3>
-
-<div align="left">
+### 🎯 Focus Areas
 
 - Business Analytics  
 - KPI Intelligence  
@@ -108,14 +92,10 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 - Revenue Optimization  
 - Interactive Dashboards  
 
-</div>
-
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -125,7 +105,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,pycharm"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -148,9 +128,6 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 <img src="https://img.shields.io/badge/FORECASTING_SYSTEMS-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DECISION_INTELLIGENCE-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUSINESS_ANALYTICS-0284C7?style=for-the-badge"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/INTERACTIVE_DASHBOARDS-F59E0B?style=for-the-badge"/>
 
 </div>
@@ -159,20 +136,14 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
 <table width="100%">
 <tr>
 
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-<h3>🕵️ KPI Anomaly RCA</h3>
+### 🕵️ KPI Anomaly RCA
 
-<p align="center">
 KPI monitoring & anomaly detection system.
-</p>
-
-<br/>
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
@@ -180,15 +151,11 @@ KPI monitoring & anomaly detection system.
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-<h3>🧠 CLV Analytics</h3>
+### 🧠 CLV Analytics
 
-<p align="center">
 Customer intelligence & retention analytics engine.
-</p>
-
-<br/>
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
@@ -196,15 +163,11 @@ Customer intelligence & retention analytics engine.
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-<h3>📈 Revenue Optimizer</h3>
+### 📈 Revenue Optimizer
 
-<p align="center">
 Revenue forecasting & pricing intelligence platform.
-</p>
-
-<br/>
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge"/>
@@ -212,15 +175,11 @@ Revenue forecasting & pricing intelligence platform.
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="top" width="25%">
 
-<h3>🚀 Churn Prediction</h3>
+### 🚀 Churn Prediction
 
-<p align="center">
 AI-driven churn risk & retention analytics system.
-</p>
-
-<br/>
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-A21CAF?style=for-the-badge"/>
@@ -230,8 +189,6 @@ AI-driven churn risk & retention analytics system.
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -249,45 +206,79 @@ AI-driven churn risk & retention analytics system.
 
 ---
 
-<div align="center">
-
 <table width="100%">
 <tr>
 
 <td valign="top" width="50%">
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishshenoy16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=girishshenoy16&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishshenoy16&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=girishshenoy16&theme=tokyo-night&hide_border=true"/>
 
 </td>
 
 <td valign="top" width="50%">
 
-<h2>🎯 Current Goals</h2>
-
-<div align="left">
+## 🎯 Current Goals
 
 - ✅ Enterprise Analytics Dashboards  
 - ✅ Decision Intelligence Systems  
 - ✅ Forecasting Workflows  
 - ✅ Production-Ready Applications  
 
-</div>
+<br/>
 
-<br/><br/>
+## 💡 Philosophy
 
-<h2>💡 Philosophy</h2>
+> Turning Data into Insights.  
+> Insights into Decisions.  
+> Decisions into Impact.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔥 Contribution With Me
 
 <div align="center">
 
-```text
-Turning Data into Insights.
-Insights into Decisions.
-Decisions into Impact.
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=girishshenoy16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/girishshenoys">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:girishpshenoy09@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+### ⚡ Building intelligent analytics systems that transform data into strategic decisions.
+
+</div>
