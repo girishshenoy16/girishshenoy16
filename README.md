@@ -44,7 +44,15 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3200&pause=1200&color=4DA3FF&center=true&vCenter=true&width=900&lines=Forecasting+%26+Predictive+Analytics" />
+
+</div>
+
+---
+
+## 👤 About Me
 
 Computer Science graduate focused on building AI-driven analytics and decision intelligence systems that combine machine learning, forecasting, dashboard engineering, and business intelligence to solve real-world business problems.
 
@@ -79,7 +87,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -179,7 +187,7 @@ AI-driven churn risk modeling and customer retention analytics platform.
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution With Me
 
 <div align="center">
 
@@ -228,6 +236,6 @@ Decisions into Impact.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
-### ⚡ Building intelligent analytics systems that transform data into strategic decisions
+### ⚡ Building intelligent analytics systems that transform data into strategic decisions.
 
 </div>
