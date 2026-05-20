@@ -9,22 +9,22 @@
 ### AI-Driven Business Analytics & Decision Intelligence Builder
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=girishshenoy16&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/girishshenoy16?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/girishshenoy16?style=for-the-badge&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/AI-Analytics%20Engineer-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Decision%20Intelligence-00C2CB?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=girishshenoy16&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/girishshenoy16?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/girishshenoy16?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/AI-Analytics%20Engineer-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Decision%20Intelligence-00C2CB?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/girishshenoys">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/girish.builds">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-Powered+Analytics+Systems;Business+Intelligence+%26+Forecasting;Decision+Intelligence+Builder;Predictive+Analytics+%7C+KPI+Monitoring" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI-Driven+Business+Analytics;Decision+Intelligence+Systems;Forecasting+%26+Predictive+Analytics;KPI+Monitoring+%26+Dashboards" />
 
 </div>
 
@@ -42,35 +42,24 @@
 
 ## 🚀 About Me
 
-I am a Computer Science graduate focused on building AI-driven analytics and decision intelligence systems that combine business understanding, machine learning, and interactive data storytelling to solve real-world problems.
+Computer Science graduate focused on building AI-driven analytics and decision intelligence systems that combine machine learning, business intelligence, and data storytelling to solve real-world problems.
 
-My work focuses on transforming complex business and operational data into actionable insights through:
+### Core Expertise
 
-* 📈 Predictive Analytics
-* 📊 KPI Monitoring Systems
-* 🧠 Decision Intelligence Workflows
-* 💹 Revenue Forecasting
-* 👥 Customer Intelligence & Retention Analytics
-* 📉 Anomaly Detection Systems
-* 🎛 Interactive Dashboards
+* 📈 Predictive Analytics & Forecasting
+* 📊 KPI Monitoring & Dashboard Engineering
+* 🧠 Decision Intelligence Systems
+* 👥 Customer & Retention Analytics
+* 📉 Anomaly Detection Workflows
+* 💹 Revenue & Business Intelligence Analytics
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 * Advanced Machine Learning
-* Forecasting & Predictive Systems
 * AI-Powered Analytics Dashboards
-* Business Intelligence Workflows
+* Forecasting Pipelines
 * Decision Support Systems
 * Streamlit-Based Analytics Applications
-
-### ⚡ Professional Interests
-
-* Business Analytics
-* Machine Learning
-* Dashboard Engineering
-* Data Storytelling
-* Enterprise Decision Support
-* AI-Enabled Decision Systems
 
 ---
 
@@ -82,13 +71,13 @@ My work focuses on transforming complex business and operational data into actio
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
 
 </div>
 
@@ -98,12 +87,12 @@ My work focuses on transforming complex business and operational data into actio
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Predictive_Analytics-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KPI_Intelligence-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Forecasting_Systems-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Decision_Intelligence-00C896?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business_Analytics-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interactive_Dashboards-FFB000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Predictive_Analytics-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/KPI_Intelligence-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Forecasting_Systems-FF6F61?style=flat-square" />
+<img src="https://img.shields.io/badge/Decision_Intelligence-00C896?style=flat-square" />
+<img src="https://img.shields.io/badge/Business_Analytics-1E90FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Interactive_Dashboards-FFB000?style=flat-square" />
 
 </div>
 
@@ -132,7 +121,7 @@ AI-powered KPI monitoring and root-cause analytics platform for intelligent busi
 
 Predictive customer intelligence and retention analytics engine for business growth optimization.
 
-### 📌 Ecommerce Revenue Pricing Optimizer
+### 📌 E-commerce Revenue Pricing Optimizer
 
 Revenue forecasting and pricing intelligence system using predictive analytics workflows.
 
@@ -150,11 +139,11 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Driven%20Analytics-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business-Intelligence-00BFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dashboard-Engineering-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Forecasting-Systems-critical?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Driven%20Analytics-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Business-Intelligence-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Dashboard-Engineering-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Forecasting-Systems-critical?style=flat-square" />
 
 </div>
 
@@ -176,7 +165,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=girishshenoy16&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=girishshenoy16&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -186,9 +175,8 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 * Building enterprise-grade analytics dashboards
 * Developing AI-powered decision intelligence systems
-* Strengthening forecasting and anomaly detection workflows
-* Creating production-ready Streamlit analytics applications
-* Expanding business-focused AI and analytics ecosystems
+* Improving forecasting and anomaly detection workflows
+* Creating production-ready analytics applications
 
 ---
 
@@ -206,10 +194,10 @@ Decisions into Impact.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/girishshenoys">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -219,6 +207,6 @@ Decisions into Impact.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
-### ⚡ "Building intelligent analytics systems that transform business data into strategic decisions."
+### ⚡ Building intelligent analytics systems that transform data into strategic decisions
 
 </div>
