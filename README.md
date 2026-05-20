@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Girish Shenoy 👋</h1>
 
-<!--
-**girishshenoy16/girishshenoy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI-Driven Business Analytics & Decision Intelligence Builder
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I build AI-enabled analytics systems focused on:
+
+- Predictive Analytics
+- KPI Monitoring
+- Revenue Forecasting
+- Customer Intelligence
+- Decision Intelligence
+- Interactive Dashboards
+
+---
+
+## Tech Stack
+
+Python • SQL • Streamlit • Power BI • Pandas • Scikit-learn • NumPy • Plotly
+
+---
+
+## Focus Areas
+
+- Business Analytics
+- Predictive Intelligence
+- KPI Monitoring Systems
+- Revenue Forecasting
+- Customer Retention Analytics
+- Dashboard Engineering
+
+---
+
+## Featured Projects
+
+### Enterprise KPI Anomaly RCA System
+AI-powered KPI monitoring and root-cause analytics platform.
+
+### Customer Lifetime Value Analytics
+Predictive customer intelligence and retention analytics engine.
+
+### Ecommerce Revenue Pricing Optimizer
+Revenue forecasting and pricing intelligence system.
+
+### Fintech Customer Churn Prediction
+AI-driven churn risk modeling and customer retention analytics.
+
+---
+
+## Currently Building
+
+- AI-enabled analytics dashboards
+- Decision intelligence systems
+- Forecasting pipelines
+- KPI automation tools
+
+---
+
+## Connect With Me
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/girishshenoys/)
+Email: girishpshenoy09@gmail.com
