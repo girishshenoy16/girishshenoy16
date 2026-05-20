@@ -177,6 +177,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishshenoy16&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=girishshenoy16&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
