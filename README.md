@@ -1,4 +1,4 @@
-<!-- Premium GitHub Profile README -->
+<!-- ========================= PREMIUM GITHUB PROFILE README ========================= -->
 
 <div align="center">
 
@@ -37,7 +37,6 @@
     <img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 ---
@@ -130,7 +129,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 ### 📌 Enterprise KPI Anomaly RCA System
 
-KPI monitoring and anomaly detection platform for business decision support.
+KPI monitoring and anomaly detection platform.
 
 ---
 
@@ -142,19 +141,19 @@ Customer intelligence and retention analytics engine.
 
 ### 📌 E-commerce Revenue Pricing Optimizer
 
-Revenue forecasting and pricing intelligence system.
+Revenue forecasting and pricing optimization platform.
 
 ---
 
 ### 📌 Fintech Customer Churn Prediction
 
-AI-driven churn risk and retention analytics platform.
+Churn risk and customer retention analytics platform.
 
 ---
 
 ### 📌 Product Feature Usage Intelligence
 
-Behavioral analytics and feature adoption intelligence system.
+Behavioral analytics and feature adoption platform.
 
 ---
 
@@ -185,7 +184,7 @@ Behavioral analytics and feature adoption intelligence system.
 # 📈 Current Goals
 
 - Building enterprise-grade analytics dashboards  
-- Developing AI-powered decision intelligence systems  
+- Developing decision intelligence systems  
 - Improving forecasting and anomaly detection workflows  
 - Creating production-ready analytics applications  
 
@@ -193,11 +192,13 @@ Behavioral analytics and feature adoption intelligence system.
 
 # 💡 Philosophy
 
-```plaintext
-Turning Data into Insights.
-Insights into Decisions.
+<div align="center">
+
+Turning Data into Insights.<br/>
+Insights into Decisions.<br/>
 Decisions into Impact.
-````
+
+</div>
 
 ---
 
@@ -226,5 +227,5 @@ Decisions into Impact.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
 
 ### ⚡ Building intelligent analytics systems that transform data into strategic decisions
+
 </div>
-```
