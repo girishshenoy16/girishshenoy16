@@ -153,18 +153,6 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=girishshenoy16&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishshenoy16&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
