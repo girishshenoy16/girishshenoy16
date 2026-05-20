@@ -42,7 +42,7 @@
 
 </div>
 
-
+---
 
 ## 🚀 About Me
 
@@ -65,7 +65,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 * Decision Support Systems
 * Streamlit-Based Analytics Applications
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -85,7 +85,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 </div>
 
-
+---
 
 ## 🧠 AI & Analytics Domains
 
@@ -100,7 +100,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 </div>
 
-
+---
 
 ## 🎯 Focus Areas
 
@@ -113,7 +113,7 @@ Revenue Optimization Systems
 Interactive Analytics Dashboards
 ```
 
-
+---
 
 ## 🌟 Featured Projects
 
@@ -137,7 +137,7 @@ AI-driven churn risk modeling and customer retention analytics platform.
 
 Behavioral analytics and feature adoption intelligence system for product decision-making.
 
-
+---
 
 ## 🏆 Professional Positioning
 
@@ -151,7 +151,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 </div>
 
-
+---
 
 ## 📊 GitHub Analytics & Activity
 
@@ -163,7 +163,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 </div>
 
-
+---
 
 ## 🔥 Contribution Streak
 
@@ -173,7 +173,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 </div>
 
-
+---
 
 ## 📈 Current Goals
 
@@ -182,7 +182,7 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 * Improving forecasting and anomaly detection workflows
 * Creating production-ready analytics applications
 
-
+---
 
 ## 💡 Philosophy
 
@@ -192,7 +192,7 @@ Insights into Decisions.
 Decisions into Impact.
 ```
 
-
+---
 
 ## 🤝 Connect With Me
 
