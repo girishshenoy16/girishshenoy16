@@ -8,7 +8,7 @@
 
 # GIRISH SHENOY
 
-### AI-Driven Business Analytics & Decision Intelligence Builder
+### Business Analytics & Decision Intelligence Builder 
 
 <br/>
 
@@ -185,7 +185,6 @@ Behavioral analytics and feature adoption platform.
 ---
 
 # 🔥 Contribution Streak
-
 <div align="center">
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=girishshenoy16&theme=tokyonight&hide_border=true" />
