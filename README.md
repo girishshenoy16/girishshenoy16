@@ -55,31 +55,39 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 <br/>
 
-<table>
+<table align="center" width="100%">
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-### 💎 Core Expertise
+<h3>💎 Core Expertise</h3>
 
-- 📈 Predictive Analytics & Forecasting  
-- 📊 KPI Monitoring & Dashboard Engineering  
-- 🧠 Decision Intelligence Systems  
-- 👥 Customer & Retention Analytics  
-- 📉 Anomaly Detection Workflows  
-- 💹 Revenue Intelligence Analytics  
+<div align="left">
+
+• Predictive Analytics & Forecasting  
+• KPI Monitoring & Dashboard Engineering  
+• Decision Intelligence Systems  
+• Customer & Retention Analytics  
+• Anomaly Detection Workflows  
+• Revenue Intelligence Analytics  
+
+</div>
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-### 🚀 Currently Exploring
+<h3>🚀 Currently Exploring</h3>
 
-- Advanced Machine Learning  
-- AI-Powered Analytics Dashboards  
-- Forecasting Pipelines  
-- Decision Support Systems  
-- Streamlit-Based Applications  
+<div align="left">
+
+• Advanced Machine Learning  
+• AI-Powered Analytics Dashboards  
+• Forecasting Pipelines  
+• Decision Support Systems  
+• Streamlit-Based Applications  
+
+</div>
 
 </td>
 
