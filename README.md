@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="YOUR_GITHUB_BANNER_IMAGE_LINK" alt="Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/girishshenoy16/girishshenoy16/main/banner.png" alt="Banner" />
 
 # GIRISH SHENOY
 
