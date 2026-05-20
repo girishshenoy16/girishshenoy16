@@ -58,7 +58,7 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 <table align="center" width="100%">
 <tr>
 
-<td valign="top" width="50%" align="center">
+<td valign="top" width="50%">
 
 <h3>💎 Core Expertise</h3>
 
