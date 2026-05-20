@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/girishshenoys">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/girish.builds">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
@@ -125,7 +125,7 @@ AI-powered KPI monitoring and root-cause analytics platform for intelligent busi
 
 Predictive customer intelligence and retention analytics engine for business growth optimization.
 
-### 📌 Ecommerce Revenue Pricing Optimizer
+### 📌 E-commerce Revenue Pricing Optimizer
 
 Revenue forecasting and pricing intelligence system using predictive analytics workflows.
 
@@ -200,7 +200,7 @@ Decisions into Impact.
   <a href="https://www.linkedin.com/in/girishshenoys">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/girish.builds">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
