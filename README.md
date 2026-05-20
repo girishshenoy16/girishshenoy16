@@ -9,22 +9,26 @@
 ### AI-Driven Business Analytics & Decision Intelligence Builder
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=girishshenoy16&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/girishshenoy16?style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/girishshenoy16?style=flat-square&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/AI-Analytics%20Engineer-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Decision%20Intelligence-00C2CB?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=girishshenoy16&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/girishshenoy16?label=FOLLOWERS&style=for-the-badge&color=2563EB" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/girishshenoy16?label=STARS&style=for-the-badge&color=EAB308" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_ANALYTICS-ENGINEER-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DECISION-INTELLIGENCE-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUSINESS-ANALYTICS-2563EB?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/girishshenoys">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/girish.builds">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -71,13 +75,13 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
 
 </div>
 
@@ -87,12 +91,12 @@ Computer Science graduate focused on building AI-driven analytics and decision i
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Predictive_Analytics-0A66C2?style=flat-square" />
-<img src="https://img.shields.io/badge/KPI_Intelligence-6A5ACD?style=flat-square" />
-<img src="https://img.shields.io/badge/Forecasting_Systems-FF6F61?style=flat-square" />
-<img src="https://img.shields.io/badge/Decision_Intelligence-00C896?style=flat-square" />
-<img src="https://img.shields.io/badge/Business_Analytics-1E90FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Interactive_Dashboards-FFB000?style=flat-square" />
+<img src="https://img.shields.io/badge/Predictive_Analytics-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KPI_Intelligence-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Forecasting_Systems-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Decision_Intelligence-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business_Analytics-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interactive_Dashboards-FFB000?style=for-the-badge" />
 
 </div>
 
@@ -121,7 +125,7 @@ AI-powered KPI monitoring and root-cause analytics platform for intelligent busi
 
 Predictive customer intelligence and retention analytics engine for business growth optimization.
 
-### 📌 E-commerce Revenue Pricing Optimizer
+### 📌 Ecommerce Revenue Pricing Optimizer
 
 Revenue forecasting and pricing intelligence system using predictive analytics workflows.
 
@@ -135,21 +139,21 @@ Behavioral analytics and feature adoption intelligence system for product decisi
 
 ---
 
-## 🏆 Professional Highlights
+## 🏆 Professional Positioning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Driven%20Analytics-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/Business-Intelligence-00BFFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboard-Engineering-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Forecasting-Systems-critical?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Driven%20Analytics-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business-Intelligence-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard-Engineering-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Forecasting-Systems-critical?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -194,10 +198,13 @@ Decisions into Impact.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/girishshenoys">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:girishpshenoy09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
